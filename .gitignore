@@ -51,3 +51,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.js
+gogn/example.json
+gogn/package.json
+*.md
+verkefni9.pdf
